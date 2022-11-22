@@ -1,0 +1,11 @@
+Model Information:
+* title:	Toy Boat
+* source:	https://sketchfab.com/3d-models/toy-boat-3c96a2a3f207411987c6151e680b72d2
+* author:	Pablo88 (https://sketchfab.com/Pablo88)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Toy Boat" (https://sketchfab.com/3d-models/toy-boat-3c96a2a3f207411987c6151e680b72d2) by Pablo88 (https://sketchfab.com/Pablo88) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

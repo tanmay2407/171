@@ -1,0 +1,15 @@
+button{
+    width: 160px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+#button-div{
+    display: none;
+    align-items: center;
+    justify-content:center;
+    position: relative;
+    bottom: 70px;
+    width: 100%;
+    z-index: 0.02;
+    border: 2px solid transparent;
+}
